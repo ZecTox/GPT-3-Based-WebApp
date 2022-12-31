@@ -1,4 +1,4 @@
-# AI writing assistant w/ GPT-3
+# AI writing assistant with GPT-3
 
 A project following the instructions of [Buildspace](https://buildspace.so/builds/ai-writer) course.
 
