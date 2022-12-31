@@ -1,5 +1,25 @@
-<h1># GPT-3-Based-WebApp-and-Chrome-Extension</h1>
+# AI writing assistant w/ GPT-3
 
-<h2 align="left"> 🧑‍💻 What I have done and learned in this Project is :- </h2>
-<h3>First,</h3><h4> a web app that lets anyone come and use GPT-3 for a specialized purpose you come up with (ex. writing a movie script, coming up with ad copy, generating a love letter, whatever you want).</h4>
-<h3>Second,</h3><h4> a Chrome Extension that lets people use your GPT-3 prompts on any website they want (ex. generate tweets right in Twitter, generate a cool post right in LinkedIn, generate landing page copy for the headline right into Webflow, etc).</h4>
+A project following the instructions of [Buildspace](https://buildspace.so/builds/ai-writer) course.
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
+## Getting Started
+
+> 🔔 Rename the file `.env.example` to `.env.local`. And then add your own API key from [OpenAI](https://beta.openai.com/account/api-keys). 
+
+Then, run the development server:
+
+```bash
+yarn dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+
+
